@@ -1,0 +1,31 @@
++----------------------------+------------+----------------------------------------------------+
+|            Date            |   Status   |                      Resource                      |
++----------------------------+------------+----------------------------------------------------+
+| 2024-10-06 16:20:31.575744 | [32mDownloaded[39m | resources/00_Preview%20Screenshots.__thumbnail.png |
+| 2024-10-06 16:20:31.635488 | [32mDownloaded[39m |      resources/01_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:31.683802 | [32mDownloaded[39m |      resources/02_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:31.758729 | [32mDownloaded[39m |      resources/03_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:32.051522 | [32mDownloaded[39m |      resources/04_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:32.117403 | [32mDownloaded[39m |      resources/05_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:32.176984 | [32mDownloaded[39m |      resources/06_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:32.243094 | [32mDownloaded[39m |      resources/07_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:32.537635 | [32mDownloaded[39m |      resources/08_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:32.810144 | [32mDownloaded[39m |      resources/09_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:32.857449 | [32mDownloaded[39m |      resources/10_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:33.124764 | [32mDownloaded[39m |      resources/11_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:33.258898 | [32mDownloaded[39m |      resources/12_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:33.336346 | [32mDownloaded[39m |      resources/13_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:33.395392 | [32mDownloaded[39m |      resources/14_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:33.470734 | [32mDownloaded[39m |      resources/15_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:33.528003 | [32mDownloaded[39m |      resources/16_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:33.594321 | [32mDownloaded[39m |      resources/17_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:33.648707 | [32mDownloaded[39m |      resources/18_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:33.715223 | [32mDownloaded[39m |      resources/19_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:35.792840 | [32mDownloaded[39m |      resources/20_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:35.872137 | [32mDownloaded[39m |      resources/21_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:35.963665 | [32mDownloaded[39m |      resources/22_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:36.028293 | [32mDownloaded[39m |      resources/23_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:37.098442 | [32mDownloaded[39m |      resources/24_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:37.153188 | [32mDownloaded[39m |      resources/25_Screenshots.__thumbnail.png      |
+| 2024-10-06 16:20:40.037555 | [32mDownloaded[39m |            resources/13_Screenshots.png            |
++----------------------------+------------+----------------------------------------------------+
